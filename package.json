@@ -1,0 +1,24 @@
+{
+  "name": "cypress-faker-random-data-test-kata",
+  "version": "1.0.0",
+  "description": "This is a project to make a test with random data with fakerjs 🪄🎩 and cypress 🤖",
+  "main": "index.js",
+  "scripts": {
+    "test": "/node_modules/.bin/cypress run"
+  },
+  "keywords": [
+    "Cypress",
+    "fakerjs",
+    "javascript",
+    "node",
+    "random",
+    "test",
+    "e2e"
+  ],
+  "author": "Pedro Capriles <caprilespe@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.1",
+    "cypress": "^12.12.0"
+  }
+}
